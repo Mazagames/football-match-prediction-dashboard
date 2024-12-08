@@ -1,0 +1,381 @@
+match_id,competition,home_team,away_team,home_score,away_score,match_date,status
+497410,Premier League,Manchester United FC,Fulham FC,1.0,0.0,2024-08-16T19:00:00Z,FINISHED
+497411,Premier League,Ipswich Town FC,Liverpool FC,0.0,2.0,2024-08-17T11:30:00Z,FINISHED
+497412,Premier League,Arsenal FC,Wolverhampton Wanderers FC,2.0,0.0,2024-08-17T14:00:00Z,FINISHED
+497413,Premier League,Everton FC,Brighton & Hove Albion FC,0.0,3.0,2024-08-17T14:00:00Z,FINISHED
+497414,Premier League,Newcastle United FC,Southampton FC,1.0,0.0,2024-08-17T14:00:00Z,FINISHED
+497415,Premier League,Nottingham Forest FC,AFC Bournemouth,1.0,1.0,2024-08-17T14:00:00Z,FINISHED
+497416,Premier League,West Ham United FC,Aston Villa FC,1.0,2.0,2024-08-17T16:30:00Z,FINISHED
+497417,Premier League,Brentford FC,Crystal Palace FC,2.0,1.0,2024-08-18T13:00:00Z,FINISHED
+497418,Premier League,Chelsea FC,Manchester City FC,0.0,2.0,2024-08-18T15:30:00Z,FINISHED
+497419,Premier League,Leicester City FC,Tottenham Hotspur FC,1.0,1.0,2024-08-19T19:00:00Z,FINISHED
+497422,Premier League,Brighton & Hove Albion FC,Manchester United FC,2.0,1.0,2024-08-24T11:30:00Z,FINISHED
+497423,Premier League,Crystal Palace FC,West Ham United FC,0.0,2.0,2024-08-24T14:00:00Z,FINISHED
+497424,Premier League,Fulham FC,Leicester City FC,2.0,1.0,2024-08-24T14:00:00Z,FINISHED
+497426,Premier League,Manchester City FC,Ipswich Town FC,4.0,1.0,2024-08-24T14:00:00Z,FINISHED
+497427,Premier League,Southampton FC,Nottingham Forest FC,0.0,1.0,2024-08-24T14:00:00Z,FINISHED
+497428,Premier League,Tottenham Hotspur FC,Everton FC,4.0,0.0,2024-08-24T14:00:00Z,FINISHED
+497421,Premier League,Aston Villa FC,Arsenal FC,0.0,2.0,2024-08-24T16:30:00Z,FINISHED
+497420,Premier League,AFC Bournemouth,Newcastle United FC,1.0,1.0,2024-08-25T13:00:00Z,FINISHED
+497429,Premier League,Wolverhampton Wanderers FC,Chelsea FC,2.0,6.0,2024-08-25T13:00:00Z,FINISHED
+497425,Premier League,Liverpool FC,Brentford FC,2.0,0.0,2024-08-25T15:30:00Z,FINISHED
+497430,Premier League,Arsenal FC,Brighton & Hove Albion FC,1.0,1.0,2024-08-31T11:30:00Z,FINISHED
+497431,Premier League,Brentford FC,Southampton FC,3.0,1.0,2024-08-31T14:00:00Z,FINISHED
+497433,Premier League,Everton FC,AFC Bournemouth,2.0,3.0,2024-08-31T14:00:00Z,FINISHED
+497434,Premier League,Ipswich Town FC,Fulham FC,1.0,1.0,2024-08-31T14:00:00Z,FINISHED
+497435,Premier League,Leicester City FC,Aston Villa FC,1.0,2.0,2024-08-31T14:00:00Z,FINISHED
+497438,Premier League,Nottingham Forest FC,Wolverhampton Wanderers FC,1.0,1.0,2024-08-31T14:00:00Z,FINISHED
+497439,Premier League,West Ham United FC,Manchester City FC,1.0,3.0,2024-08-31T16:30:00Z,FINISHED
+497432,Premier League,Chelsea FC,Crystal Palace FC,1.0,1.0,2024-09-01T12:30:00Z,FINISHED
+497437,Premier League,Newcastle United FC,Tottenham Hotspur FC,2.0,1.0,2024-09-01T12:30:00Z,FINISHED
+497436,Premier League,Manchester United FC,Liverpool FC,0.0,3.0,2024-09-01T15:00:00Z,FINISHED
+497447,Premier League,Southampton FC,Manchester United FC,0.0,3.0,2024-09-14T11:30:00Z,FINISHED
+497442,Premier League,Brighton & Hove Albion FC,Ipswich Town FC,0.0,0.0,2024-09-14T14:00:00Z,FINISHED
+497443,Premier League,Crystal Palace FC,Leicester City FC,2.0,2.0,2024-09-14T14:00:00Z,FINISHED
+497444,Premier League,Fulham FC,West Ham United FC,1.0,1.0,2024-09-14T14:00:00Z,FINISHED
+497445,Premier League,Liverpool FC,Nottingham Forest FC,0.0,1.0,2024-09-14T14:00:00Z,FINISHED
+497446,Premier League,Manchester City FC,Brentford FC,2.0,1.0,2024-09-14T14:00:00Z,FINISHED
+497441,Premier League,Aston Villa FC,Everton FC,3.0,2.0,2024-09-14T16:30:00Z,FINISHED
+497440,Premier League,AFC Bournemouth,Chelsea FC,0.0,1.0,2024-09-14T19:00:00Z,FINISHED
+497448,Premier League,Tottenham Hotspur FC,Arsenal FC,0.0,1.0,2024-09-15T13:00:00Z,FINISHED
+497449,Premier League,Wolverhampton Wanderers FC,Newcastle United FC,1.0,2.0,2024-09-15T15:30:00Z,FINISHED
+497459,Premier League,West Ham United FC,Chelsea FC,0.0,3.0,2024-09-21T11:30:00Z,FINISHED
+497450,Premier League,Aston Villa FC,Wolverhampton Wanderers FC,3.0,1.0,2024-09-21T14:00:00Z,FINISHED
+497453,Premier League,Fulham FC,Newcastle United FC,3.0,1.0,2024-09-21T14:00:00Z,FINISHED
+497454,Premier League,Leicester City FC,Everton FC,1.0,1.0,2024-09-21T14:00:00Z,FINISHED
+497455,Premier League,Liverpool FC,AFC Bournemouth,3.0,0.0,2024-09-21T14:00:00Z,FINISHED
+497457,Premier League,Southampton FC,Ipswich Town FC,1.0,1.0,2024-09-21T14:00:00Z,FINISHED
+497458,Premier League,Tottenham Hotspur FC,Brentford FC,3.0,1.0,2024-09-21T14:00:00Z,FINISHED
+497452,Premier League,Crystal Palace FC,Manchester United FC,0.0,0.0,2024-09-21T16:30:00Z,FINISHED
+497451,Premier League,Brighton & Hove Albion FC,Nottingham Forest FC,2.0,2.0,2024-09-22T13:00:00Z,FINISHED
+497456,Premier League,Manchester City FC,Arsenal FC,2.0,2.0,2024-09-22T15:30:00Z,FINISHED
+497467,Premier League,Newcastle United FC,Manchester City FC,1.0,1.0,2024-09-28T11:30:00Z,FINISHED
+497461,Premier League,Arsenal FC,Leicester City FC,4.0,2.0,2024-09-28T14:00:00Z,FINISHED
+497462,Premier League,Brentford FC,West Ham United FC,1.0,1.0,2024-09-28T14:00:00Z,FINISHED
+497463,Premier League,Chelsea FC,Brighton & Hove Albion FC,4.0,2.0,2024-09-28T14:00:00Z,FINISHED
+497464,Premier League,Everton FC,Crystal Palace FC,2.0,1.0,2024-09-28T14:00:00Z,FINISHED
+497468,Premier League,Nottingham Forest FC,Fulham FC,0.0,1.0,2024-09-28T14:00:00Z,FINISHED
+497469,Premier League,Wolverhampton Wanderers FC,Liverpool FC,1.0,2.0,2024-09-28T16:30:00Z,FINISHED
+497465,Premier League,Ipswich Town FC,Aston Villa FC,2.0,2.0,2024-09-29T13:00:00Z,FINISHED
+497466,Premier League,Manchester United FC,Tottenham Hotspur FC,0.0,3.0,2024-09-29T15:30:00Z,FINISHED
+497460,Premier League,AFC Bournemouth,Southampton FC,3.0,1.0,2024-09-30T19:00:00Z,FINISHED
+497475,Premier League,Crystal Palace FC,Liverpool FC,0.0,1.0,2024-10-05T11:30:00Z,FINISHED
+497470,Premier League,Arsenal FC,Southampton FC,3.0,1.0,2024-10-05T14:00:00Z,FINISHED
+497472,Premier League,Brentford FC,Wolverhampton Wanderers FC,5.0,3.0,2024-10-05T14:00:00Z,FINISHED
+497477,Premier League,Leicester City FC,AFC Bournemouth,1.0,0.0,2024-10-05T14:00:00Z,FINISHED
+497478,Premier League,Manchester City FC,Fulham FC,3.0,2.0,2024-10-05T14:00:00Z,FINISHED
+497479,Premier League,West Ham United FC,Ipswich Town FC,4.0,1.0,2024-10-05T14:00:00Z,FINISHED
+497476,Premier League,Everton FC,Newcastle United FC,0.0,0.0,2024-10-05T16:30:00Z,FINISHED
+497471,Premier League,Aston Villa FC,Manchester United FC,0.0,0.0,2024-10-06T13:00:00Z,FINISHED
+497474,Premier League,Chelsea FC,Nottingham Forest FC,1.0,1.0,2024-10-06T13:00:00Z,FINISHED
+497473,Premier League,Brighton & Hove Albion FC,Tottenham Hotspur FC,3.0,2.0,2024-10-06T15:30:00Z,FINISHED
+497488,Premier League,Tottenham Hotspur FC,West Ham United FC,4.0,1.0,2024-10-19T11:30:00Z,FINISHED
+497481,Premier League,Fulham FC,Aston Villa FC,1.0,3.0,2024-10-19T14:00:00Z,FINISHED
+497482,Premier League,Ipswich Town FC,Everton FC,0.0,2.0,2024-10-19T14:00:00Z,FINISHED
+497484,Premier League,Manchester United FC,Brentford FC,2.0,1.0,2024-10-19T14:00:00Z,FINISHED
+497485,Premier League,Newcastle United FC,Brighton & Hove Albion FC,0.0,1.0,2024-10-19T14:00:00Z,FINISHED
+497487,Premier League,Southampton FC,Leicester City FC,2.0,3.0,2024-10-19T14:00:00Z,FINISHED
+497480,Premier League,AFC Bournemouth,Arsenal FC,2.0,0.0,2024-10-19T16:30:00Z,FINISHED
+497489,Premier League,Wolverhampton Wanderers FC,Manchester City FC,1.0,2.0,2024-10-20T13:00:00Z,FINISHED
+497483,Premier League,Liverpool FC,Chelsea FC,2.0,1.0,2024-10-20T15:30:00Z,FINISHED
+497486,Premier League,Nottingham Forest FC,Crystal Palace FC,1.0,0.0,2024-10-21T19:00:00Z,FINISHED
+497497,Premier League,Leicester City FC,Nottingham Forest FC,1.0,3.0,2024-10-25T19:00:00Z,FINISHED
+497491,Premier League,Aston Villa FC,AFC Bournemouth,1.0,1.0,2024-10-26T14:00:00Z,FINISHED
+497492,Premier League,Brentford FC,Ipswich Town FC,4.0,3.0,2024-10-26T14:00:00Z,FINISHED
+497493,Premier League,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,2.0,2.0,2024-10-26T14:00:00Z,FINISHED
+497498,Premier League,Manchester City FC,Southampton FC,1.0,0.0,2024-10-26T14:00:00Z,FINISHED
+497496,Premier League,Everton FC,Fulham FC,1.0,1.0,2024-10-26T16:30:00Z,FINISHED
+497494,Premier League,Chelsea FC,Newcastle United FC,2.0,1.0,2024-10-27T14:00:00Z,FINISHED
+497495,Premier League,Crystal Palace FC,Tottenham Hotspur FC,1.0,0.0,2024-10-27T14:00:00Z,FINISHED
+497499,Premier League,West Ham United FC,Manchester United FC,2.0,1.0,2024-10-27T14:00:00Z,FINISHED
+497490,Premier League,Arsenal FC,Liverpool FC,2.0,2.0,2024-10-27T16:30:00Z,FINISHED
+497505,Premier League,Newcastle United FC,Arsenal FC,1.0,0.0,2024-11-02T12:30:00Z,FINISHED
+497500,Premier League,AFC Bournemouth,Manchester City FC,2.0,1.0,2024-11-02T15:00:00Z,FINISHED
+497502,Premier League,Ipswich Town FC,Leicester City FC,1.0,1.0,2024-11-02T15:00:00Z,FINISHED
+497503,Premier League,Liverpool FC,Brighton & Hove Albion FC,2.0,1.0,2024-11-02T15:00:00Z,FINISHED
+497506,Premier League,Nottingham Forest FC,West Ham United FC,3.0,0.0,2024-11-02T15:00:00Z,FINISHED
+497507,Premier League,Southampton FC,Everton FC,1.0,0.0,2024-11-02T15:00:00Z,FINISHED
+497509,Premier League,Wolverhampton Wanderers FC,Crystal Palace FC,2.0,2.0,2024-11-02T17:30:00Z,FINISHED
+497508,Premier League,Tottenham Hotspur FC,Aston Villa FC,4.0,1.0,2024-11-03T14:00:00Z,FINISHED
+497504,Premier League,Manchester United FC,Chelsea FC,1.0,1.0,2024-11-03T16:30:00Z,FINISHED
+497501,Premier League,Fulham FC,Brentford FC,2.0,1.0,2024-11-04T20:00:00Z,FINISHED
+497510,Premier League,Brentford FC,AFC Bournemouth,3.0,2.0,2024-11-09T15:00:00Z,FINISHED
+497513,Premier League,Crystal Palace FC,Fulham FC,0.0,2.0,2024-11-09T15:00:00Z,FINISHED
+497518,Premier League,West Ham United FC,Everton FC,0.0,0.0,2024-11-09T15:00:00Z,FINISHED
+497519,Premier League,Wolverhampton Wanderers FC,Southampton FC,2.0,0.0,2024-11-09T15:00:00Z,FINISHED
+497511,Premier League,Brighton & Hove Albion FC,Manchester City FC,2.0,1.0,2024-11-09T17:30:00Z,FINISHED
+497514,Premier League,Liverpool FC,Aston Villa FC,2.0,0.0,2024-11-09T20:00:00Z,FINISHED
+497515,Premier League,Manchester United FC,Leicester City FC,3.0,0.0,2024-11-10T14:00:00Z,FINISHED
+497516,Premier League,Nottingham Forest FC,Newcastle United FC,1.0,3.0,2024-11-10T14:00:00Z,FINISHED
+497517,Premier League,Tottenham Hotspur FC,Ipswich Town FC,1.0,2.0,2024-11-10T14:00:00Z,FINISHED
+497512,Premier League,Chelsea FC,Arsenal FC,1.0,1.0,2024-11-10T16:30:00Z,FINISHED
+497526,Premier League,Leicester City FC,Chelsea FC,1.0,2.0,2024-11-23T12:30:00Z,FINISHED
+497520,Premier League,AFC Bournemouth,Brighton & Hove Albion FC,1.0,2.0,2024-11-23T15:00:00Z,FINISHED
+497521,Premier League,Arsenal FC,Nottingham Forest FC,3.0,0.0,2024-11-23T15:00:00Z,FINISHED
+497522,Premier League,Aston Villa FC,Crystal Palace FC,2.0,2.0,2024-11-23T15:00:00Z,FINISHED
+497523,Premier League,Everton FC,Brentford FC,0.0,0.0,2024-11-23T15:00:00Z,FINISHED
+497524,Premier League,Fulham FC,Wolverhampton Wanderers FC,1.0,4.0,2024-11-23T15:00:00Z,FINISHED
+497527,Premier League,Manchester City FC,Tottenham Hotspur FC,0.0,4.0,2024-11-23T17:30:00Z,FINISHED
+497529,Premier League,Southampton FC,Liverpool FC,2.0,3.0,2024-11-24T14:00:00Z,FINISHED
+497525,Premier League,Ipswich Town FC,Manchester United FC,1.0,1.0,2024-11-24T16:30:00Z,FINISHED
+497528,Premier League,Newcastle United FC,West Ham United FC,0.0,2.0,2024-11-25T20:00:00Z,FINISHED
+497531,Premier League,Brighton & Hove Albion FC,Southampton FC,1.0,1.0,2024-11-29T20:00:00Z,FINISHED
+497530,Premier League,Brentford FC,Leicester City FC,4.0,1.0,2024-11-30T15:00:00Z,FINISHED
+497533,Premier League,Crystal Palace FC,Newcastle United FC,1.0,1.0,2024-11-30T15:00:00Z,FINISHED
+497536,Premier League,Nottingham Forest FC,Ipswich Town FC,1.0,0.0,2024-11-30T15:00:00Z,FINISHED
+497539,Premier League,Wolverhampton Wanderers FC,AFC Bournemouth,2.0,4.0,2024-11-30T15:00:00Z,FINISHED
+497538,Premier League,West Ham United FC,Arsenal FC,2.0,5.0,2024-11-30T17:30:00Z,FINISHED
+497532,Premier League,Chelsea FC,Aston Villa FC,3.0,0.0,2024-12-01T13:30:00Z,FINISHED
+497535,Premier League,Manchester United FC,Everton FC,4.0,0.0,2024-12-01T13:30:00Z,FINISHED
+497537,Premier League,Tottenham Hotspur FC,Fulham FC,1.0,1.0,2024-12-01T13:30:00Z,FINISHED
+497534,Premier League,Liverpool FC,Manchester City FC,2.0,0.0,2024-12-01T16:00:00Z,FINISHED
+497545,Premier League,Ipswich Town FC,Crystal Palace FC,0.0,1.0,2024-12-03T19:30:00Z,FINISHED
+497546,Premier League,Leicester City FC,West Ham United FC,3.0,1.0,2024-12-03T20:15:00Z,FINISHED
+497543,Premier League,Everton FC,Wolverhampton Wanderers FC,4.0,0.0,2024-12-04T19:30:00Z,FINISHED
+497547,Premier League,Manchester City FC,Nottingham Forest FC,3.0,0.0,2024-12-04T19:30:00Z,FINISHED
+497548,Premier League,Newcastle United FC,Liverpool FC,3.0,3.0,2024-12-04T19:30:00Z,FINISHED
+497549,Premier League,Southampton FC,Chelsea FC,1.0,5.0,2024-12-04T19:30:00Z,FINISHED
+497541,Premier League,Arsenal FC,Manchester United FC,2.0,0.0,2024-12-04T20:15:00Z,FINISHED
+497542,Premier League,Aston Villa FC,Brentford FC,3.0,1.0,2024-12-04T20:15:00Z,FINISHED
+497544,Premier League,Fulham FC,Brighton & Hove Albion FC,3.0,1.0,2024-12-05T19:30:00Z,FINISHED
+497540,Premier League,AFC Bournemouth,Tottenham Hotspur FC,1.0,0.0,2024-12-05T20:15:00Z,FINISHED
+497553,Premier League,Everton FC,Liverpool FC,,,2024-12-07T12:30:00Z,POSTPONED
+497550,Premier League,Aston Villa FC,Southampton FC,1.0,0.0,2024-12-07T15:00:00Z,FINISHED
+497551,Premier League,Brentford FC,Newcastle United FC,4.0,2.0,2024-12-07T15:00:00Z,FINISHED
+497552,Premier League,Crystal Palace FC,Manchester City FC,2.0,2.0,2024-12-07T15:00:00Z,FINISHED
+497557,Premier League,Manchester United FC,Nottingham Forest FC,2.0,3.0,2024-12-07T17:30:00Z,FINISHED
+497554,Premier League,Fulham FC,Arsenal FC,1.0,2.0,2024-12-08T14:00:00Z,FINISHED
+497555,Premier League,Ipswich Town FC,AFC Bournemouth,1.0,2.0,2024-12-08T14:00:00Z,FINISHED
+497556,Premier League,Leicester City FC,Brighton & Hove Albion FC,2.0,2.0,2024-12-08T14:00:00Z,FINISHED
+497558,Premier League,Tottenham Hotspur FC,Chelsea FC,,,2024-12-08T16:30:00Z,TIMED
+497559,Premier League,West Ham United FC,Wolverhampton Wanderers FC,,,2024-12-09T20:00:00Z,TIMED
+497561,Premier League,Arsenal FC,Everton FC,,,2024-12-14T15:00:00Z,TIMED
+497564,Premier League,Liverpool FC,Fulham FC,,,2024-12-14T15:00:00Z,TIMED
+497566,Premier League,Newcastle United FC,Leicester City FC,,,2024-12-14T15:00:00Z,TIMED
+497569,Premier League,Wolverhampton Wanderers FC,Ipswich Town FC,,,2024-12-14T15:00:00Z,TIMED
+497567,Premier League,Nottingham Forest FC,Aston Villa FC,,,2024-12-14T17:30:00Z,TIMED
+497562,Premier League,Brighton & Hove Albion FC,Crystal Palace FC,,,2024-12-15T14:00:00Z,TIMED
+497565,Premier League,Manchester City FC,Manchester United FC,,,2024-12-15T16:30:00Z,TIMED
+497563,Premier League,Chelsea FC,Brentford FC,,,2024-12-15T19:00:00Z,TIMED
+497568,Premier League,Southampton FC,Tottenham Hotspur FC,,,2024-12-15T19:00:00Z,TIMED
+497560,Premier League,AFC Bournemouth,West Ham United FC,,,2024-12-16T20:00:00Z,TIMED
+497570,Premier League,Aston Villa FC,Manchester City FC,,,2024-12-21T12:30:00Z,TIMED
+497571,Premier League,Brentford FC,Nottingham Forest FC,,,2024-12-21T15:00:00Z,TIMED
+497575,Premier League,Ipswich Town FC,Newcastle United FC,,,2024-12-21T15:00:00Z,TIMED
+497579,Premier League,West Ham United FC,Brighton & Hove Albion FC,,,2024-12-21T15:00:00Z,TIMED
+497572,Premier League,Crystal Palace FC,Arsenal FC,,,2024-12-21T17:30:00Z,TIMED
+497573,Premier League,Everton FC,Chelsea FC,,,2024-12-22T14:00:00Z,TIMED
+497574,Premier League,Fulham FC,Southampton FC,,,2024-12-22T14:00:00Z,TIMED
+497576,Premier League,Leicester City FC,Wolverhampton Wanderers FC,,,2024-12-22T14:00:00Z,TIMED
+497577,Premier League,Manchester United FC,AFC Bournemouth,,,2024-12-22T14:00:00Z,TIMED
+497578,Premier League,Tottenham Hotspur FC,Liverpool FC,,,2024-12-22T16:30:00Z,TIMED
+497585,Premier League,Manchester City FC,Everton FC,,,2024-12-26T12:30:00Z,TIMED
+497580,Premier League,AFC Bournemouth,Crystal Palace FC,,,2024-12-26T15:00:00Z,TIMED
+497583,Premier League,Chelsea FC,Fulham FC,,,2024-12-26T15:00:00Z,TIMED
+497586,Premier League,Newcastle United FC,Aston Villa FC,,,2024-12-26T15:00:00Z,TIMED
+497587,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,,,2024-12-26T15:00:00Z,TIMED
+497588,Premier League,Southampton FC,West Ham United FC,,,2024-12-26T15:00:00Z,TIMED
+497589,Premier League,Wolverhampton Wanderers FC,Manchester United FC,,,2024-12-26T17:30:00Z,TIMED
+497584,Premier League,Liverpool FC,Leicester City FC,,,2024-12-26T20:00:00Z,TIMED
+497582,Premier League,Brighton & Hove Albion FC,Brentford FC,,,2024-12-27T19:30:00Z,TIMED
+497581,Premier League,Arsenal FC,Ipswich Town FC,,,2024-12-27T20:15:00Z,TIMED
+497596,Premier League,Leicester City FC,Manchester City FC,,,2024-12-29T14:30:00Z,TIMED
+497592,Premier League,Crystal Palace FC,Southampton FC,,,2024-12-29T15:00:00Z,TIMED
+497593,Premier League,Everton FC,Nottingham Forest FC,,,2024-12-29T15:00:00Z,TIMED
+497594,Premier League,Fulham FC,AFC Bournemouth,,,2024-12-29T15:00:00Z,TIMED
+497598,Premier League,Tottenham Hotspur FC,Wolverhampton Wanderers FC,,,2024-12-29T15:00:00Z,TIMED
+497599,Premier League,West Ham United FC,Liverpool FC,,,2024-12-29T17:15:00Z,TIMED
+497590,Premier League,Aston Villa FC,Brighton & Hove Albion FC,,,2024-12-30T19:45:00Z,TIMED
+497595,Premier League,Ipswich Town FC,Chelsea FC,,,2024-12-30T19:45:00Z,TIMED
+497597,Premier League,Manchester United FC,Newcastle United FC,,,2024-12-30T20:00:00Z,TIMED
+497591,Premier League,Brentford FC,Arsenal FC,,,2025-01-01T17:30:00Z,TIMED
+497607,Premier League,Tottenham Hotspur FC,Newcastle United FC,,,2025-01-04T12:30:00Z,TIMED
+497601,Premier League,Southampton FC,Brentford FC,,,2025-01-04T15:00:00Z,TIMED
+497602,Premier League,Crystal Palace FC,Chelsea FC,,,2025-01-04T15:00:00Z,TIMED
+497603,Premier League,AFC Bournemouth,Everton FC,,,2025-01-04T15:00:00Z,TIMED
+497605,Premier League,Aston Villa FC,Leicester City FC,,,2025-01-04T15:00:00Z,TIMED
+497609,Premier League,Manchester City FC,West Ham United FC,,,2025-01-04T15:00:00Z,TIMED
+497600,Premier League,Brighton & Hove Albion FC,Arsenal FC,,,2025-01-04T17:30:00Z,TIMED
+497604,Premier League,Fulham FC,Ipswich Town FC,,,2025-01-05T14:00:00Z,TIMED
+497606,Premier League,Liverpool FC,Manchester United FC,,,2025-01-05T16:30:00Z,TIMED
+497608,Premier League,Wolverhampton Wanderers FC,Nottingham Forest FC,,,2025-01-06T20:00:00Z,TIMED
+497613,Premier League,West Ham United FC,Fulham FC,,,2025-01-14T19:30:00Z,TIMED
+497615,Premier League,Brentford FC,Manchester City FC,,,2025-01-14T19:30:00Z,TIMED
+497617,Premier League,Chelsea FC,AFC Bournemouth,,,2025-01-14T19:30:00Z,TIMED
+497614,Premier League,Nottingham Forest FC,Liverpool FC,,,2025-01-14T20:00:00Z,TIMED
+497610,Premier League,Everton FC,Aston Villa FC,,,2025-01-15T19:30:00Z,TIMED
+497612,Premier League,Leicester City FC,Crystal Palace FC,,,2025-01-15T19:30:00Z,TIMED
+497619,Premier League,Newcastle United FC,Wolverhampton Wanderers FC,,,2025-01-15T19:30:00Z,TIMED
+497616,Premier League,Arsenal FC,Tottenham Hotspur FC,,,2025-01-15T20:00:00Z,TIMED
+497611,Premier League,Ipswich Town FC,Brighton & Hove Albion FC,,,2025-01-16T19:30:00Z,TIMED
+497618,Premier League,Manchester United FC,Southampton FC,,,2025-01-16T20:00:00Z,TIMED
+497620,Premier League,Newcastle United FC,AFC Bournemouth,,,2025-01-18T12:30:00Z,TIMED
+497623,Premier League,West Ham United FC,Crystal Palace FC,,,2025-01-18T15:00:00Z,TIMED
+497624,Premier League,Leicester City FC,Fulham FC,,,2025-01-18T15:00:00Z,TIMED
+497625,Premier League,Brentford FC,Liverpool FC,,,2025-01-18T15:00:00Z,TIMED
+497621,Premier League,Arsenal FC,Aston Villa FC,,,2025-01-18T17:30:00Z,TIMED
+497622,Premier League,Manchester United FC,Brighton & Hove Albion FC,,,2025-01-19T14:00:00Z,TIMED
+497627,Premier League,Nottingham Forest FC,Southampton FC,,,2025-01-19T14:00:00Z,TIMED
+497628,Premier League,Everton FC,Tottenham Hotspur FC,,,2025-01-19T14:00:00Z,TIMED
+497626,Premier League,Ipswich Town FC,Manchester City FC,,,2025-01-19T16:30:00Z,TIMED
+497629,Premier League,Chelsea FC,Wolverhampton Wanderers FC,,,2025-01-20T20:00:00Z,TIMED
+497631,Premier League,Liverpool FC,Ipswich Town FC,,,2025-01-25T15:00:00Z,TIMED
+497632,Premier League,Wolverhampton Wanderers FC,Arsenal FC,,,2025-01-25T15:00:00Z,TIMED
+497633,Premier League,Brighton & Hove Albion FC,Everton FC,,,2025-01-25T15:00:00Z,TIMED
+497634,Premier League,Southampton FC,Newcastle United FC,,,2025-01-25T15:00:00Z,TIMED
+497635,Premier League,AFC Bournemouth,Nottingham Forest FC,,,2025-01-25T15:00:00Z,TIMED
+497638,Premier League,Manchester City FC,Chelsea FC,,,2025-01-25T17:30:00Z,TIMED
+497637,Premier League,Crystal Palace FC,Brentford FC,,,2025-01-26T14:00:00Z,TIMED
+497639,Premier League,Tottenham Hotspur FC,Leicester City FC,,,2025-01-26T14:00:00Z,TIMED
+497636,Premier League,Aston Villa FC,West Ham United FC,,,2025-01-26T16:30:00Z,TIMED
+497630,Premier League,Fulham FC,Manchester United FC,,,2025-01-26T19:00:00Z,TIMED
+497640,Premier League,Wolverhampton Wanderers FC,Aston Villa FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497641,Premier League,Nottingham Forest FC,Brighton & Hove Albion FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497642,Premier League,Manchester United FC,Crystal Palace FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497643,Premier League,Newcastle United FC,Fulham FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497644,Premier League,Everton FC,Leicester City FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497645,Premier League,AFC Bournemouth,Liverpool FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497646,Premier League,Arsenal FC,Manchester City FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497647,Premier League,Ipswich Town FC,Southampton FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497648,Premier League,Brentford FC,Tottenham Hotspur FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497649,Premier League,Chelsea FC,West Ham United FC,,,2025-02-01T00:00:00Z,SCHEDULED
+497650,Premier League,Southampton FC,AFC Bournemouth,,,2025-02-15T00:00:00Z,SCHEDULED
+497651,Premier League,Leicester City FC,Arsenal FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497652,Premier League,West Ham United FC,Brentford FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497653,Premier League,Brighton & Hove Albion FC,Chelsea FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497654,Premier League,Crystal Palace FC,Everton FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497655,Premier League,Aston Villa FC,Ipswich Town FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497656,Premier League,Tottenham Hotspur FC,Manchester United FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497657,Premier League,Manchester City FC,Newcastle United FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497658,Premier League,Fulham FC,Nottingham Forest FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497659,Premier League,Liverpool FC,Wolverhampton Wanderers FC,,,2025-02-15T00:00:00Z,SCHEDULED
+497664,Premier League,Manchester City FC,Liverpool FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497665,Premier League,Everton FC,Manchester United FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497666,Premier League,Ipswich Town FC,Tottenham Hotspur FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497667,Premier League,Fulham FC,Crystal Palace FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497668,Premier League,Arsenal FC,West Ham United FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497669,Premier League,AFC Bournemouth,Wolverhampton Wanderers FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497660,Premier League,Leicester City FC,Brentford FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497661,Premier League,Southampton FC,Brighton & Hove Albion FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497662,Premier League,Aston Villa FC,Chelsea FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497663,Premier League,Newcastle United FC,Nottingham Forest FC,,,2025-02-22T00:00:00Z,SCHEDULED
+497670,Premier League,Brighton & Hove Albion FC,AFC Bournemouth,,,2025-02-25T00:00:00Z,SCHEDULED
+497671,Premier League,Nottingham Forest FC,Arsenal FC,,,2025-02-25T00:00:00Z,SCHEDULED
+497672,Premier League,Crystal Palace FC,Aston Villa FC,,,2025-02-25T00:00:00Z,SCHEDULED
+497673,Premier League,Brentford FC,Everton FC,,,2025-02-25T00:00:00Z,SCHEDULED
+497674,Premier League,Wolverhampton Wanderers FC,Fulham FC,,,2025-02-25T00:00:00Z,SCHEDULED
+497675,Premier League,Tottenham Hotspur FC,Manchester City FC,,,2025-02-25T00:00:00Z,SCHEDULED
+497676,Premier League,West Ham United FC,Leicester City FC,,,2025-02-25T00:00:00Z,SCHEDULED
+497677,Premier League,Manchester United FC,Ipswich Town FC,,,2025-02-26T00:00:00Z,SCHEDULED
+497678,Premier League,Chelsea FC,Southampton FC,,,2025-02-26T00:00:00Z,SCHEDULED
+497679,Premier League,Liverpool FC,Newcastle United FC,,,2025-02-26T00:00:00Z,SCHEDULED
+497680,Premier League,Tottenham Hotspur FC,AFC Bournemouth,,,2025-03-08T00:00:00Z,SCHEDULED
+497681,Premier League,Manchester United FC,Arsenal FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497682,Premier League,Brentford FC,Aston Villa FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497683,Premier League,Wolverhampton Wanderers FC,Everton FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497684,Premier League,Brighton & Hove Albion FC,Fulham FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497685,Premier League,Crystal Palace FC,Ipswich Town FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497686,Premier League,West Ham United FC,Newcastle United FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497687,Premier League,Nottingham Forest FC,Manchester City FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497688,Premier League,Liverpool FC,Southampton FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497689,Premier League,Chelsea FC,Leicester City FC,,,2025-03-08T00:00:00Z,SCHEDULED
+497690,Premier League,AFC Bournemouth,Brentford FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497691,Premier League,Arsenal FC,Chelsea FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497692,Premier League,Aston Villa FC,Liverpool FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497693,Premier League,Everton FC,West Ham United FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497694,Premier League,Fulham FC,Tottenham Hotspur FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497695,Premier League,Ipswich Town FC,Nottingham Forest FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497696,Premier League,Leicester City FC,Manchester United FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497697,Premier League,Manchester City FC,Brighton & Hove Albion FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497698,Premier League,Newcastle United FC,Crystal Palace FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497699,Premier League,Southampton FC,Wolverhampton Wanderers FC,,,2025-03-15T00:00:00Z,SCHEDULED
+497700,Premier League,AFC Bournemouth,Ipswich Town FC,,,2025-04-01T00:00:00Z,SCHEDULED
+497701,Premier League,Arsenal FC,Fulham FC,,,2025-04-01T00:00:00Z,SCHEDULED
+497702,Premier League,Brighton & Hove Albion FC,Aston Villa FC,,,2025-04-01T00:00:00Z,SCHEDULED
+497703,Premier League,Nottingham Forest FC,Manchester United FC,,,2025-04-01T00:00:00Z,SCHEDULED
+497704,Premier League,Wolverhampton Wanderers FC,West Ham United FC,,,2025-04-01T00:00:00Z,SCHEDULED
+497705,Premier League,Chelsea FC,Tottenham Hotspur FC,,,2025-04-02T00:00:00Z,SCHEDULED
+497706,Premier League,Manchester City FC,Leicester City FC,,,2025-04-02T00:00:00Z,SCHEDULED
+497707,Premier League,Newcastle United FC,Brentford FC,,,2025-04-02T00:00:00Z,SCHEDULED
+497708,Premier League,Southampton FC,Crystal Palace FC,,,2025-04-02T00:00:00Z,SCHEDULED
+497709,Premier League,Liverpool FC,Everton FC,,,2025-04-02T00:00:00Z,SCHEDULED
+497710,Premier League,Aston Villa FC,Nottingham Forest FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497711,Premier League,Brentford FC,Chelsea FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497712,Premier League,Crystal Palace FC,Brighton & Hove Albion FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497713,Premier League,Everton FC,Arsenal FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497714,Premier League,Fulham FC,Liverpool FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497715,Premier League,Ipswich Town FC,Wolverhampton Wanderers FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497716,Premier League,Leicester City FC,Newcastle United FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497717,Premier League,Manchester United FC,Manchester City FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497718,Premier League,Tottenham Hotspur FC,Southampton FC,,,2025-04-05T00:00:00Z,SCHEDULED
+497719,Premier League,West Ham United FC,AFC Bournemouth,,,2025-04-05T00:00:00Z,SCHEDULED
+497720,Premier League,AFC Bournemouth,Fulham FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497721,Premier League,Arsenal FC,Brentford FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497722,Premier League,Brighton & Hove Albion FC,Leicester City FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497723,Premier League,Chelsea FC,Ipswich Town FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497724,Premier League,Liverpool FC,West Ham United FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497725,Premier League,Manchester City FC,Crystal Palace FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497726,Premier League,Newcastle United FC,Manchester United FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497727,Premier League,Nottingham Forest FC,Everton FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497728,Premier League,Southampton FC,Aston Villa FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497729,Premier League,Wolverhampton Wanderers FC,Tottenham Hotspur FC,,,2025-04-12T00:00:00Z,SCHEDULED
+497730,Premier League,Aston Villa FC,Newcastle United FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497731,Premier League,Brentford FC,Brighton & Hove Albion FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497732,Premier League,Crystal Palace FC,AFC Bournemouth,,,2025-04-19T00:00:00Z,SCHEDULED
+497733,Premier League,Everton FC,Manchester City FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497734,Premier League,Fulham FC,Chelsea FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497735,Premier League,Ipswich Town FC,Arsenal FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497736,Premier League,Leicester City FC,Liverpool FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497737,Premier League,Manchester United FC,Wolverhampton Wanderers FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497738,Premier League,Tottenham Hotspur FC,Nottingham Forest FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497739,Premier League,West Ham United FC,Southampton FC,,,2025-04-19T00:00:00Z,SCHEDULED
+497740,Premier League,AFC Bournemouth,Manchester United FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497741,Premier League,Arsenal FC,Crystal Palace FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497742,Premier League,Brighton & Hove Albion FC,West Ham United FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497743,Premier League,Chelsea FC,Everton FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497744,Premier League,Liverpool FC,Tottenham Hotspur FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497745,Premier League,Manchester City FC,Aston Villa FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497746,Premier League,Newcastle United FC,Ipswich Town FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497747,Premier League,Nottingham Forest FC,Brentford FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497748,Premier League,Southampton FC,Fulham FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497749,Premier League,Wolverhampton Wanderers FC,Leicester City FC,,,2025-04-26T00:00:00Z,SCHEDULED
+497750,Premier League,Arsenal FC,AFC Bournemouth,,,2025-05-03T00:00:00Z,SCHEDULED
+497751,Premier League,Aston Villa FC,Fulham FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497752,Premier League,Brentford FC,Manchester United FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497753,Premier League,Brighton & Hove Albion FC,Newcastle United FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497754,Premier League,Chelsea FC,Liverpool FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497755,Premier League,Crystal Palace FC,Nottingham Forest FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497756,Premier League,Everton FC,Ipswich Town FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497757,Premier League,Leicester City FC,Southampton FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497758,Premier League,Manchester City FC,Wolverhampton Wanderers FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497759,Premier League,West Ham United FC,Tottenham Hotspur FC,,,2025-05-03T00:00:00Z,SCHEDULED
+497760,Premier League,AFC Bournemouth,Aston Villa FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497761,Premier League,Fulham FC,Everton FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497762,Premier League,Ipswich Town FC,Brentford FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497763,Premier League,Liverpool FC,Arsenal FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497764,Premier League,Manchester United FC,West Ham United FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497765,Premier League,Newcastle United FC,Chelsea FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497766,Premier League,Nottingham Forest FC,Leicester City FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497767,Premier League,Southampton FC,Manchester City FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497768,Premier League,Tottenham Hotspur FC,Crystal Palace FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497769,Premier League,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,,,2025-05-10T00:00:00Z,SCHEDULED
+497770,Premier League,Arsenal FC,Newcastle United FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497771,Premier League,Aston Villa FC,Tottenham Hotspur FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497772,Premier League,Brentford FC,Fulham FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497773,Premier League,Brighton & Hove Albion FC,Liverpool FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497774,Premier League,Chelsea FC,Manchester United FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497775,Premier League,Crystal Palace FC,Wolverhampton Wanderers FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497776,Premier League,Everton FC,Southampton FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497777,Premier League,Leicester City FC,Ipswich Town FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497778,Premier League,Manchester City FC,AFC Bournemouth,,,2025-05-18T00:00:00Z,SCHEDULED
+497779,Premier League,West Ham United FC,Nottingham Forest FC,,,2025-05-18T00:00:00Z,SCHEDULED
+497780,Premier League,AFC Bournemouth,Leicester City FC,,,2025-05-25T15:00:00Z,TIMED
+497781,Premier League,Fulham FC,Manchester City FC,,,2025-05-25T15:00:00Z,TIMED
+497782,Premier League,Ipswich Town FC,West Ham United FC,,,2025-05-25T15:00:00Z,TIMED
+497783,Premier League,Liverpool FC,Crystal Palace FC,,,2025-05-25T15:00:00Z,TIMED
+497784,Premier League,Manchester United FC,Aston Villa FC,,,2025-05-25T15:00:00Z,TIMED
+497785,Premier League,Newcastle United FC,Everton FC,,,2025-05-25T15:00:00Z,TIMED
+497786,Premier League,Nottingham Forest FC,Chelsea FC,,,2025-05-25T15:00:00Z,TIMED
+497787,Premier League,Southampton FC,Arsenal FC,,,2025-05-25T15:00:00Z,TIMED
+497788,Premier League,Tottenham Hotspur FC,Brighton & Hove Albion FC,,,2025-05-25T15:00:00Z,TIMED
+497789,Premier League,Wolverhampton Wanderers FC,Brentford FC,,,2025-05-25T15:00:00Z,TIMED
